@@ -3,7 +3,9 @@
 This folder contains all the codes used in the MMwA course:
 https://nerdmusician.teachable.com/p/making-music-with-arduino
 
-To clone this repository follow this tutorial: https://www.youtube.com/watch?v=yXT1ElMEkW8
+To clone (download) this repository and understand how to use Github follow this tutorial: https://www.youtube.com/watch?v=yXT1ElMEkW8
+Or click in the "code" folder and "download zip".
+Intro to the Command Line (GitHub): https://youtu.be/oK8EvVeVltE
 
 And make sure you refresh your folder (pull) once in a while so you get the latest version of the codes in the folder.
 
