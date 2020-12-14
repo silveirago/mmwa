@@ -24,8 +24,6 @@ Main projects
 - MidiMood (a Minimoog MIDI controller clone): https://github.com/silveirago/MidiMood
 - Debugging (codes to help you to debug): https://github.com/silveirago/debugging
 - Fliper (12 arcade buttons and 4 knobs with Arduino Pro Micro): https://github.com/silveirago/Fliper-2
-- Complete controller: https://github.com/silveirago/DIY-Midi-Controller
-- Complete code extended: https://github.com/silveirago/DIY-Midi-Controller-full
 - Traktorino (DJ MIDI controller): https://github.com/silveirago/traktorino
 - Fliper DJ: https://github.com/silveirago/Flipper-Dj
 - MIDI LED strip: https://github.com/silveirago/Midi-Led-Strip
