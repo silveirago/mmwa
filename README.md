@@ -16,7 +16,7 @@ MIDI CONTROLLER PROJECTS:
 General purpose projects
 
 - DIY MIDI controller (simple all purpose code for pots and buttons): https://github.com/silveirago/DIY-Midi-Controller
-- DIY MIDI controller -  FUll (all purpose code with many addons, which is constantly updated): https://github.com/silveirago/DIY-Midi-Controller-full
+- DIY MIDI controller -  FULL (all purpose code with many addons, which is constantly updated): https://github.com/silveirago/DIY-Midi-Controller-full
 
 Main projects
 
