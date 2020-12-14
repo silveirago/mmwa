@@ -13,7 +13,7 @@ And make sure you refresh your folder (pull) once in a while so you get the late
 - - - - - - - - - - - - - - - - - - - - - 
 MIDI CONTROLLER PROJECTS:
 
-General purpose codes;
+General purpose codes
 
 - DIY MIDI controller (simple all purpose code for pots and buttons): https://github.com/silveirago/DIY-Midi-Controller
 - DIY MIDI controller -  FUll (all purpose code with many addons, which is constantly updated): https://github.com/silveirago/DIY-Midi-Controller-full
