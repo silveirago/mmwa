@@ -13,10 +13,17 @@ And make sure you refresh your folder (pull) once in a while so you get the late
 - - - - - - - - - - - - - - - - - - - - - 
 MIDI CONTROLLER PROJECTS:
 
-The MIDI controller projects are each in their own repo, which will be listed here:
+General purpose codes;
 
+- DIY MIDI controller (simple all purpose code for pots and buttons): https://github.com/silveirago/DIY-Midi-Controller
+- DIY MIDI controller -  FUll (all purpose code with many addons, which is constantly updated): https://github.com/silveirago/DIY-Midi-Controller-full
+
+Main projects
+
+- Fliper RGB (16 RGB arcade buttons): https://github.com/silveirago/fliperRGB
+- MidiMood (a Minimoog MIDI controller clone): https://github.com/silveirago/MidiMood
 - Debugging (codes to help you to debug): https://github.com/silveirago/debugging
-- Fliper (12 aracde buttons and 4 knobs with Arduino Pro Micro): https://github.com/silveirago/Fliper-2
+- Fliper (12 arcade buttons and 4 knobs with Arduino Pro Micro): https://github.com/silveirago/Fliper-2
 - Complete controller: https://github.com/silveirago/DIY-Midi-Controller
 - Complete code extended: https://github.com/silveirago/DIY-Midi-Controller-full
 - Traktorino (DJ MIDI controller): https://github.com/silveirago/traktorino
